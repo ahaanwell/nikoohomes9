@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- ==========================================
+         HOME
+    ========================================== -->
+    <url>
+        <loc>https://www.sobhaliora.co/</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.00</priority>
+    </url>
+
+    <!-- ==========================================
+         CORE SOBHA LIORA PAGES
+    ========================================== -->
+    <url>
+        <loc>https://www.sobhaliora.co/price.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/floor-plans.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/master-plan.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/location.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/amenities.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- ==========================================
+         BANGALORE HUB PAGE
+    ========================================== -->
+    <url>
+        <loc>https://www.sobhaliora.co/bangalore.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- ==========================================
+         SOBHA GROUP PROJECT PAGES
+    ========================================== -->
+    <url>
+        <loc>https://www.sobhaliora.co/bangalore/sobha-altair.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/bangalore/sobha-neopolis.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/bangalore/sobha-one-world.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/bangalore/sobha-ayana.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/bangalore/sobha-magnus.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- ==========================================
+         BLOG / INFO PAGES
+    ========================================== -->
+    <url>
+        <loc>https://www.sobhaliora.co/sobha-limited.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/brochure.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://www.sobhaliora.co/project-status.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+
+</urlset>
