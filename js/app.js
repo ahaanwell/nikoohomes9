@@ -129,8 +129,8 @@ async function submitForm(name, email, number, countryCode = '') {
         email,
         number,
         country_code: countryCode,
-        company_email: 'info@searchmyspace.in',
-        project_name: "Sobha Liora",
+        company_email: 'mddigitalleads@gmail.com',
+        project_name: "Nikoo Homes 9",
     };
 
     try {
