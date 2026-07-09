@@ -63,7 +63,7 @@ async function submitForm(name, email, number, countryCode = '') {
         email,
         number,
         country_code: countryCode,
-        company_email: 'mddigitalleads@gmail.com',
+        company_email: 'mndigitalleads@gmail.com',
         project_name: "Nikoo Homes 9",
     };
 
