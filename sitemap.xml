@@ -9,7 +9,7 @@
     ========================================== -->
     <url>
         <loc>https://www.nikoohomes9.org.in/</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.00</priority>
     </url>
@@ -19,31 +19,31 @@
     ========================================== -->
     <url>
         <loc>https://www.nikoohomes9.org.in/price.html</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.90</priority>
     </url>
     <url>
         <loc>https://www.nikoohomes9.org.in/floor-plans.html</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.90</priority>
     </url>
     <url>
         <loc>https://www.nikoohomes9.org.in/master-plan.html</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
     </url>
     <url>
         <loc>https://www.nikoohomes9.org.in/location.html</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
     </url>
     <url>
         <loc>https://www.nikoohomes9.org.in/amenities.html</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
     </url>
@@ -53,43 +53,9 @@
     ========================================== -->
     <url>
         <loc>https://www.nikoohomes9.org.in/bangalore.html</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.85</priority>
-    </url>
-
-    <!-- ==========================================
-         BHARTIYA CITY / OTHER PROJECT PAGES
-    ========================================== -->
-    <url>
-        <loc>https://www.nikoohomes9.org.in/bangalore/sobha-altair.html</loc>
-        <lastmod>2026-07-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.75</priority>
-    </url>
-    <url>
-        <loc>https://www.nikoohomes9.org.in/bangalore/sobha-neopolis.html</loc>
-        <lastmod>2026-07-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.75</priority>
-    </url>
-    <url>
-        <loc>https://www.nikoohomes9.org.in/bangalore/sobha-one-world.html</loc>
-        <lastmod>2026-07-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.75</priority>
-    </url>
-    <url>
-        <loc>https://www.nikoohomes9.org.in/bangalore/sobha-ayana.html</loc>
-        <lastmod>2026-07-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.75</priority>
-    </url>
-    <url>
-        <loc>https://www.nikoohomes9.org.in/bangalore/sobha-magnus.html</loc>
-        <lastmod>2026-07-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.75</priority>
     </url>
 
     <!-- ==========================================
@@ -97,7 +63,7 @@
     ========================================== -->
     <url>
         <loc>https://www.nikoohomes9.org.in/brochure.html</loc>
-        <lastmod>2026-07-08</lastmod>
+        <lastmod>2026-07-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.70</priority>
     </url>
